@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
 
                 NotificationCompat.Builder builder = new NotificationCompat.Builder(getApplicationContext())
                         .setSmallIcon(R.mipmap.ic_launcher)
-                        .setContentTitle("E-maill Form")
+                        .setContentTitle("E-maillll Form")
                         .setContentText("E-mail sudah dikirim kepada anda")
                         .setPriority(NotificationCompat.PRIORITY_DEFAULT)
                         .setChannelId(channel.getId());
